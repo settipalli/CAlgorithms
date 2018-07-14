@@ -3,4 +3,4 @@ project(CAlgorithms)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CAlgorithms chapter1/weightedquickunion.cpp)
+add_executable(CAlgorithms chapter1/weightedquickunionwithpathcompressionbyhalving.cpp)
