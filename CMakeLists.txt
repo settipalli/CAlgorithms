@@ -3,4 +3,4 @@ project(CAlgorithms)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CAlgorithms chapter17/simplegraph.cpp chapter17/include/graphCC.h chapter17/include/graphIO.h)
+add_executable(CAlgorithms chapter17/simplegraph.cpp chapter17/include/graphCC.h chapter17/include/graphIO.h chapter17/denseGraph.cpp)
