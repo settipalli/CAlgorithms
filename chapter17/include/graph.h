@@ -20,7 +20,7 @@ public:
     bool edge(int, int);
     class adjIterator {
     public:
-        adjIterator(const GRAPH &G, int);
+        adjIterator(const GRAPH &, int);
         int beg();
         int nxt();
         bool end();
